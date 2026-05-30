@@ -1,0 +1,5 @@
+{"input": "What is the capital of France?", "expected": "Paris", "context": "France is a country in Western Europe. Its capital and largest city is Paris."}
+{"input": "Who wrote the novel 1984?", "expected": "George Orwell", "context": "1984 is a dystopian novel by the English author George Orwell, published in 1949."}
+{"input": "What is the boiling point of water at sea level in Celsius?", "expected": "100", "context": "At standard atmospheric pressure (sea level), pure water boils at 100 degrees Celsius."}
+{"input": "Which planet is known as the Red Planet?", "expected": "Mars", "context": "Mars is often called the Red Planet because of its reddish appearance, caused by iron oxide on its surface."}
+{"input": "What language is primarily spoken in Brazil?", "expected": "Portuguese", "context": "Brazil is the largest country in South America. Its official language is Portuguese."}

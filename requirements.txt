@@ -1,0 +1,7 @@
+# Core harness has zero required deps — pure stdlib.
+#
+# Optional extras (install only what you need):
+#
+#   pip install anthropic              # AnthropicProvider + LLMJudge
+#   pip install sentence-transformers  # EmbeddingSimilarity
+#   pip install pytest                 # test suite
