@@ -8,7 +8,7 @@ labeled datasets, reporting **accuracy**, **hallucination rate**, **latency**,
 Built to demonstrate end-to-end understanding of how LLM evaluation actually
 works under the hood. See [How this relates to DeepEval / RAGAS](#how-this-relates-to-deepeval--ragas) below.
 
-[![tests](https://img.shields.io/badge/tests-26%20passing-brightgreen)](#running-tests)
+[![tests](https://github.com/TheRedCan/Evaluator/actions/workflows/test.yml/badge.svg)](https://github.com/TheRedCan/Evaluator/actions/workflows/test.yml)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
